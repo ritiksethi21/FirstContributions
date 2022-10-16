@@ -7,7 +7,6 @@
 - [Beau Hayes-Pollard](https://twitter.com/bahburs)
 - [Paritosh Singh](https://twitter.com/proparitosh1609)
 - [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
-- Julia Ma
 - [Yuzhe Wang](https://www.linkedin.com/in/yuzhe-wang-4553801b1/)
 - [Saphirah Pociluyko](https://github.com/sjpcp5)
 - [Kyle Begovich 🇺🇸](https://kylebegovich.github.io)
